@@ -6,8 +6,8 @@ Requires at least: 5.4
 Tested up to: 6.9
 Stable tag: 1.0.0
 Requires PHP: 8.2
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: 
+License URI: 
 Just add \"share\" to the classes of a social links block with permalink context (such as in an FSE single post template).
 
 ## Description
