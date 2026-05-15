@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Social Sharing Block
  * Description: Just add "share" to the classes of a social links block with permalink context (such as in an FSE single post template).
- * Version: 1.0.1
+ * Version: 1.0.2
  */
 
 class SocialSharingBlock {
@@ -70,7 +70,7 @@ class SocialSharingBlock {
 	}
 }
 
-new SocialShareBlock();
+new SocialSharingBlock();
 
 /**
  * WIP
