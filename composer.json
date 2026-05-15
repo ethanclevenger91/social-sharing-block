@@ -1,5 +1,5 @@
 {
-    "name": "ethanclevenger91/social-share-block",
+    "name": "ethanclevenger91/social-sharing-block",
     "description": "Just add \"share\" to the classes of a social links block with permalink context (such as in an FSE single post template).",
     "type": "wordpress-plugin",
     "authors": [
