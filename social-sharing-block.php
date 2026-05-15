@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Social Share Block
+ * Plugin Name: Social Sharing Block
  * Description: Just add "share" to the classes of a social links block with permalink context (such as in an FSE single post template).
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
-class SocialShareBlock {
+class SocialSharingBlock {
 
 	public function __construct()
 	{
